@@ -19,13 +19,14 @@ author: Zachary Bretton
 # --- List of links in the navigation bar --- #
 ###############################################
 
+paginate: 0
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/zachary-bretton/"
     - Google Scholar: "https://scholar-google-com.ezproxy.lib.utexas.edu/citations?user=dmU6WO4AAAAJ&hl=en&oi=ao"
     - Github: "https://github.com/zacharybretton"
-  CV: "CV"
+  CV: "/assets/pdf/Resume_ZB_2024.pdf"
 
 ################
 # --- Logo --- #
@@ -225,11 +226,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 0
 
 kramdown:
   input: GFM
