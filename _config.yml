@@ -24,7 +24,7 @@ navbar-links:
   About Me: "/"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/zachary-bretton/"
-    - Google Scholar: "https://scholar-google-com.ezproxy.lib.utexas.edu/citations?user=dmU6WO4AAAAJ&hl=en&oi=ao"
+    - Google Scholar: "https://scholar.google.com/citations?user=dmU6WO4AAAAJ&hl=en&oi=ao"
     - Github: "https://github.com/zacharybretton"
   CV: "/assets/pdf/Resume_ZB_2024.pdf"
 
