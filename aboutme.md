@@ -10,7 +10,7 @@ At the **University of Texas**, my work focused on uncovering the neural mechani
 
 Now, I'm excited to take these skills beyond the lab and into the real world. My passion for data science and analytics lies in its potential to solve complex problems and drive impactful decisions across industries. Whether it's optimizing business strategies, improving healthcare outcomes, or maximizing efficiency on the basketball court, I’m ready to bring my expertise and energy to the table.
 
-When I'm not working on data-driven projects, you can find me cheering on the **Brooklyn Nets** (Let's go Nets!) or spending time with my amazing wife **Dr. Shelby Bretton**, and our dog, **Tycho**. Whether you're interested in the latest in data science, machine learning, or want to debate about the NBA, I'm always up for a conversation.
+When I'm not working on data-driven projects, you can find me cheering on the **Brooklyn Nets** (Let's go Nets!) or spending time with my amazing wife **Dr. Shelby Bretton**, and our dog, **Tycho**. Whether you're interested in the latest in data science, machine learning, or want to debate about the NBA, I'm always up for a conversation. If you would like to learn more about my prior research, here are some selected publications below to review.
 
 ## Selected Publications
 
