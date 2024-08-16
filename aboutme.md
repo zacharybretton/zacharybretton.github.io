@@ -17,5 +17,7 @@ When I'm not working on data-driven projects, you can find me cheering on the **
 ## Selected Publications
 
 1. Zachary H. Bretton, Hyojeong Kim, Marie T. Banich, Jarrod A. Lewis-Peacock; Suppressing the Maintenance of Information in Working Memory Alters Long-term Memory Traces. *Journal of Cognitive Neuroscience*, 2024. [doi: 10.1162/jocn_a_02206](https://doi.org/10.1162/jocn_a_02206)
+
 2. Z. Bretton-Granatoor, H. Stealey, S. R. Santacruz, J. A. Lewis-Peacock, "Estimating Intrinsic Manifold Dimensionality to Classify Task-Related Information in Human and Non-Human Primate Data," *IEEE Biomedical Circuits and Systems Conference (BioCAS)*, Taipei, Taiwan, 2022, pp. 650-654. [doi: 10.1109/BioCAS54905.2022.9948604](https://doi.org/10.1109/BioCAS54905.2022.9948604)
+
 3. Harris, A., Atsak, P., Bretton, Z. et al. A Novel Method for Chronic Social Defeat Stress in Female Mice. *Neuropsychopharmacology*, 43, 1276–1283 (2018). [doi: 10.1038/npp.2017.259](https://doi.org/10.1038/npp.2017.259)
