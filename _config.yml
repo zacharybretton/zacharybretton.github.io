@@ -22,7 +22,7 @@ author: Zachary Bretton
 paginate: 0
 navbar-links:
   About Me: "/"
-  Resources:
+  Find Me Online:
     - LinkedIn: "https://www.linkedin.com/in/zachary-bretton/"
     - Google Scholar: "https://scholar.google.com/citations?user=dmU6WO4AAAAJ&hl=en&oi=ao"
     - Github: "https://github.com/zacharybretton"
