@@ -12,12 +12,12 @@ Now, I'm excited to take these skills beyond the lab and into the real world. My
 
 When I'm not working on data-driven projects, you can find me cheering on the **Brooklyn Nets** (Let's go Nets!) or spending time with my amazing wife **Dr. Shelby Bretton**, and our dog, **Tycho**. Whether you're interested in the latest in data science, machine learning, or want to debate about the NBA, I'm always up for a conversation. 
 
-*If you would like to learn more about my prior research, here are some selected publications below to review.*
+*If you would like to learn more about my recent work, including my research or some recent projects, check them out below.*
 
-## Selected Publications
+## Selected Works
 
-1. Zachary H. Bretton, Hyojeong Kim, Marie T. Banich, Jarrod A. Lewis-Peacock; Suppressing the Maintenance of Information in Working Memory Alters Long-term Memory Traces. *Journal of Cognitive Neuroscience*, 2024. [doi: 10.1162/jocn_a_02206](https://doi.org/10.1162/jocn_a_02206)
+- **[Exploring Distributed Functional Representations with fMRI: A Modern Take on Haxby et al. (2001)](https://github.com/zacharybretton/modern_haxby2001)**
 
-2. Z. Bretton-Granatoor, H. Stealey, S. R. Santacruz, J. A. Lewis-Peacock, "Estimating Intrinsic Manifold Dimensionality to Classify Task-Related Information in Human and Non-Human Primate Data," *IEEE Biomedical Circuits and Systems Conference (BioCAS)*, Taipei, Taiwan, 2022, pp. 650-654. [doi: 10.1109/BioCAS54905.2022.9948604](https://doi.org/10.1109/BioCAS54905.2022.9948604)
+- Zachary H. Bretton, Hyojeong Kim, Marie T. Banich, Jarrod A. Lewis-Peacock; Suppressing the Maintenance of Information in Working Memory Alters Long-term Memory Traces. *Journal of Cognitive Neuroscience*, 2024. [doi: 10.1162/jocn_a_02206](https://doi.org/10.1162/jocn_a_02206)
 
-3. Harris, A., Atsak, P., Bretton, Z. et al. A Novel Method for Chronic Social Defeat Stress in Female Mice. *Neuropsychopharmacology*, 43, 1276–1283 (2018). [doi: 10.1038/npp.2017.259](https://doi.org/10.1038/npp.2017.259)
+- Z. Bretton-Granatoor, H. Stealey, S. R. Santacruz, J. A. Lewis-Peacock, "Estimating Intrinsic Manifold Dimensionality to Classify Task-Related Information in Human and Non-Human Primate Data," *IEEE Biomedical Circuits and Systems Conference (BioCAS)*, Taipei, Taiwan, 2022, pp. 650-654. [doi: 10.1109/BioCAS54905.2022.9948604](https://doi.org/10.1109/BioCAS54905.2022.9948604)
