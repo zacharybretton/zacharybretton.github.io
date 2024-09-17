@@ -16,7 +16,9 @@ When I'm not working on data-driven projects, you can find me cheering on the **
 
 ## Selected Works
 
-- **[Exploring Distributed Functional Representations with fMRI: A Modern Take on Haxby et al. (2001)](https://github.com/zacharybretton/modern_haxby2001)**
+- **[COVID-19 Chest X-Ray Image Classification Using TensorFlow and CNNs](https://github.com/zacharybretton/CNN_XRay_classification)**: Developed a CNN model to classify chest X-ray images into COVID-19, Normal, and Pneumonia categories, achieving over 81% accuracy.
+
+- **[Exploring Distributed Functional Representations with fMRI: A Modern Take on Haxby et al. (2001)](https://github.com/zacharybretton/modern_haxby2001)**: Replicated the findings of Haxby et al. (2001) using functional MRI data, implementing modern machine learning techniques such as XGBoost to investigate distributed patterns of brain activity in visual object recognition.
 
 - Zachary H. Bretton, Hyojeong Kim, Marie T. Banich, Jarrod A. Lewis-Peacock; Suppressing the Maintenance of Information in Working Memory Alters Long-term Memory Traces. *Journal of Cognitive Neuroscience*, 2024. [doi: 10.1162/jocn_a_02206](https://doi.org/10.1162/jocn_a_02206)
 
