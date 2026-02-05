@@ -1,4 +1,6 @@
 body.home-page-refresh {
+  --accent-col: #6d28d9;
+  --accent-col-soft: rgba(109, 40, 217, 0.18);
   background:
     radial-gradient(circle at 12% 10%, rgba(109, 40, 217, 0.2), transparent 35%),
     radial-gradient(circle at 90% 5%, rgba(223, 130, 85, 0.2), transparent 30%),
@@ -285,7 +287,7 @@ body.home-page-refresh .intro-header .page-heading hr.small {
   top: 0.35rem;
   bottom: 0.35rem;
   width: 2px;
-  background: linear-gradient(180deg, rgba(10, 109, 107, 0.85), rgba(15, 23, 42, 0.6));
+  background: linear-gradient(180deg, rgba(109, 40, 217, 0.85), rgba(15, 23, 42, 0.6));
   border-radius: 999px;
 }
 
@@ -305,13 +307,13 @@ body.home-page-refresh .intro-header .page-heading hr.small {
   width: var(--timeline-marker-size);
   height: var(--timeline-marker-size);
   border-radius: 999px;
-  background: #0a6d6b;
-  box-shadow: 0 0 0 4px rgba(10, 109, 107, 0.18);
+  background: var(--accent-col);
+  box-shadow: 0 0 0 4px var(--accent-col-soft);
 }
 
 .zr-timeline-marker-future {
-  background: #0f172a;
-  box-shadow: 0 0 0 4px rgba(15, 23, 42, 0.18);
+  background: var(--accent-col);
+  box-shadow: 0 0 0 4px var(--accent-col-soft);
 }
 
 .zr-timeline-date {
@@ -320,7 +322,7 @@ body.home-page-refresh .intro-header .page-heading hr.small {
   font-size: 0.76rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: #0a6d6b;
+  color: var(--accent-col);
 }
 
 .zr-timeline-content h3 {
