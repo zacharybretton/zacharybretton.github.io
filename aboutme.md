@@ -96,7 +96,7 @@ ext-css:
           </div>
         </article>
         <article class="zr-timeline-item">
-          <div class="zr-timeline-marker zr-timeline-marker-future"></div>
+          <div class="zr-timeline-marker"></div>
           <div class="zr-timeline-content">
             <p class="zr-timeline-date">2019 – 2024</p>
             <h3>Graduate Researcher (Cognitive Neuroscience Ph.D.)</h3>
