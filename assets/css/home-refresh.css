@@ -1,6 +1,6 @@
 body.home-page-refresh {
   background:
-    radial-gradient(circle at 12% 10%, rgba(10, 109, 107, 0.2), transparent 35%),
+    radial-gradient(circle at 12% 10%, rgba(109, 40, 217, 0.2), transparent 35%),
     radial-gradient(circle at 90% 5%, rgba(223, 130, 85, 0.2), transparent 30%),
     linear-gradient(180deg, #f8f3eb 0%, #f5efe6 45%, #f1ebe2 100%);
   color: #17202a;
@@ -49,7 +49,7 @@ body.home-page-refresh .intro-header .page-subheading {
 }
 
 body.home-page-refresh .intro-header .page-heading hr.small {
-  border-color: #0a6d6b;
+  border-color: #6d28d9;
   max-width: 7.5rem;
 }
 
@@ -118,7 +118,7 @@ body.home-page-refresh .intro-header .page-heading hr.small {
   inset: 0 auto auto 0;
   width: 9rem;
   height: 9rem;
-  background: radial-gradient(circle, rgba(10, 109, 107, 0.3) 0%, transparent 65%);
+  background: radial-gradient(circle, rgba(109, 40, 217, 0.3) 0%, transparent 65%);
   pointer-events: none;
 }
 
@@ -131,8 +131,8 @@ body.home-page-refresh .intro-header .page-heading hr.small {
   font-size: 0.76rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: #0a6d6b;
-  background: rgba(10, 109, 107, 0.1);
+  color: #6d28d9;
+  background: rgba(109, 40, 217, 0.1);
 }
 
 .zr-hero h2 {
@@ -384,7 +384,7 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
 .zr-project a:hover,
 .zr-project a:focus {
-  color: #0a6d6b;
+  color: #6d28d9;
 }
 
 .zr-section-last p {

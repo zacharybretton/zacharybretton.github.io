@@ -108,15 +108,15 @@ keywords: "Zachary Bretton, Neuroscience, Data Science, Machine Learning"
 
 page-col: "#F8F3EB"
 text-col: "#17202A"
-link-col: "#0A6D6B"
-hover-col: "#084C61"
+link-col: "#6D28D9"
+hover-col: "#5B21B6"
 navbar-col: "#F8F3EB"
 navbar-text-col: "#17202A"
 navbar-border-col: "#D7D0C6"
 footer-col: "#F1E9DE"
 footer-text-col: "#4F5B66"
 footer-link-col: "#17202A"
-footer-hover-col: "#0A6D6B"
+footer-hover-col: "#6D28D9"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
