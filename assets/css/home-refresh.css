@@ -24,7 +24,11 @@ body.home-page-refresh .navbar-custom .nav-link {
 }
 
 body.home-page-refresh .intro-header {
-  margin: 5.5rem 0 1rem;
+  margin: 6.6rem 0 1rem;
+}
+
+body.home-page-refresh .navbar-custom .avatar-container {
+  bottom: -0.4rem;
 }
 
 body.home-page-refresh .intro-header .page-heading h1 {
@@ -311,7 +315,7 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
 @media (max-width: 767px) {
   body.home-page-refresh .intro-header {
-    margin-top: 4.6rem;
+    margin-top: 5.2rem;
   }
 
   .zr-hero {
@@ -330,5 +334,15 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
   .zr-btn {
     width: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  body.home-page-refresh .intro-header {
+    margin-top: 9.2rem;
+  }
+
+  body.home-page-refresh .navbar-custom.top-nav-regular .avatar-container {
+    bottom: -0.9rem;
   }
 }
