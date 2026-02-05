@@ -272,9 +272,10 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
 .zr-timeline {
   --timeline-line-x: 0.65rem;
+  --timeline-pad: 2.6rem;
   --timeline-marker-size: 0.9rem;
   position: relative;
-  padding-left: 2.6rem;
+  padding-left: var(--timeline-pad);
 }
 
 .zr-timeline::before {
@@ -299,7 +300,7 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
 .zr-timeline-marker {
   position: absolute;
-  left: calc(var(--timeline-line-x) - (var(--timeline-marker-size) / 2));
+  left: calc(var(--timeline-line-x) - (var(--timeline-marker-size) / 2) - var(--timeline-pad));
   top: 0.32rem;
   width: var(--timeline-marker-size);
   height: var(--timeline-marker-size);
