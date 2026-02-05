@@ -24,12 +24,15 @@ ext-css:
     </p>
     <div class="zr-chip-row">
       <span>Python</span>
-      <span>R</span>
+      <span>SQL</span>
       <span>Statistics</span>
       <span>Neuroimaging</span>
       <span>Clinical Research Data</span>
+      <span>Machine Learning</span>
       <span>Multi-Modal Integration</span>
       <span>Reproducible Pipelines</span>
+      <span>Git</span>
+      <span>Containerization</span>
     </div>
     <div class="zr-link-row">
       <a class="zr-btn zr-btn-primary" href="https://www.linkedin.com/in/zachary-bretton/">Connect on LinkedIn</a>
@@ -41,7 +44,7 @@ ext-css:
   <section class="zr-grid">
     <article class="zr-card">
       <h3>Current Role</h3>
-      <p>Research Scientist, DCS Corp (October 2024 to present), Dayton, Ohio (hybrid).</p>
+      <p>Cognitive Neuroscientist at DCS Corp, supporting AFRL work at Wright-Patterson AFB.</p>
     </article>
     <article class="zr-card">
       <h3>Next Focus</h3>
