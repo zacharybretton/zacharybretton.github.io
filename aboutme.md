@@ -91,27 +91,24 @@ ext-css:
           <div class="zr-timeline-marker"></div>
           <div class="zr-timeline-content">
             <p class="zr-timeline-date">2024 – 2026</p>
-            <h3>Cognitive Neuroscientist (Research Scientist)</h3>
+            <h3>Cognitive Neuroscientist</h3>
             <p class="zr-timeline-org">DCS Corp · AFRL, Wright-Patterson AFB</p>
-            <p>Non-invasive brain stimulation research, neuroimaging analysis, and reproducible ML workflows.</p>
           </div>
         </article>
         <article class="zr-timeline-item">
           <div class="zr-timeline-marker zr-timeline-marker-future"></div>
           <div class="zr-timeline-content">
             <p class="zr-timeline-date">2019 – 2024</p>
-            <h3>Ph.D. Candidate</h3>
+            <h3>Graduate Researcher (Cognitive Neuroscience Ph.D.)</h3>
             <p class="zr-timeline-org">The University of Texas at Austin</p>
-            <p>Doctoral research in cognitive and computational neuroscience.</p>
           </div>
         </article>
         <article class="zr-timeline-item">
           <div class="zr-timeline-marker"></div>
           <div class="zr-timeline-content">
             <p class="zr-timeline-date">2016 – 2019</p>
-            <h3>Research Technician / Lab Manager</h3>
+            <h3>Research Technician & Lab Manager</h3>
             <p class="zr-timeline-org">Columbia University Department of Psychiatry · New York State Psychiatric Institute</p>
-            <p>Managed lab operations and supported research in psychiatric neuroscience.</p>
           </div>
         </article>
         <article class="zr-timeline-item">
@@ -120,7 +117,6 @@ ext-css:
             <p class="zr-timeline-date">2011 – 2015</p>
             <h3>B.A. in Biology (Specialization in Neurobiology)</h3>
             <p class="zr-timeline-org">Boston University</p>
-            <p>Undergraduate training in biology with a focus on neurobiology.</p>
           </div>
         </article>
       </div>
