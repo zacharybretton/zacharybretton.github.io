@@ -271,16 +271,18 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 }
 
 .zr-timeline {
+  --timeline-line-x: 0.65rem;
+  --timeline-marker-size: 0.9rem;
   position: relative;
-  padding-left: 1.9rem;
+  padding-left: 2.6rem;
 }
 
 .zr-timeline::before {
   content: "";
   position: absolute;
-  left: 0.5rem;
-  top: 0.25rem;
-  bottom: 0.4rem;
+  left: var(--timeline-line-x);
+  top: 0.35rem;
+  bottom: 0.35rem;
   width: 2px;
   background: linear-gradient(180deg, rgba(10, 109, 107, 0.85), rgba(15, 23, 42, 0.6));
   border-radius: 999px;
@@ -288,7 +290,7 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
 .zr-timeline-item {
   position: relative;
-  padding: 0.1rem 0 1.35rem 0.4rem;
+  padding: 0.1rem 0 1.35rem 0;
 }
 
 .zr-timeline-item:last-child {
@@ -297,10 +299,10 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
 .zr-timeline-marker {
   position: absolute;
-  left: -0.05rem;
-  top: 0.3rem;
-  width: 0.88rem;
-  height: 0.88rem;
+  left: calc(var(--timeline-line-x) - (var(--timeline-marker-size) / 2));
+  top: 0.32rem;
+  width: var(--timeline-marker-size);
+  height: var(--timeline-marker-size);
   border-radius: 999px;
   background: #0a6d6b;
   box-shadow: 0 0 0 4px rgba(10, 109, 107, 0.18);
@@ -339,6 +341,7 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
 .zr-timeline-content {
   max-width: 42rem;
+  padding-left: 0.1rem;
 }
 
 .zr-list {
