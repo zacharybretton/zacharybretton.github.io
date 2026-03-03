@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zachary Bretton
-subtitle: Cognitive Neuroscientist and Applied Data Scientist
+subtitle: Data Scientist (Clinical Research) at INDD
 permalink: /
 body-class: home-page-refresh
 css:
@@ -12,15 +12,14 @@ ext-css:
 
 <div class="home-refresh">
   <section class="zr-hero">
-    <p class="zr-kicker">Research Scientist at DCS Corp</p>
+    <p class="zr-kicker">Data Scientist (Clinical Research) at INDD</p>
     <h2>Turning messy human data into clear decisions.</h2>
     <p>
       I am <strong>Zachary Bretton, Ph.D.</strong>, a cognitive and computational neuroscientist
-      currently serving as a <strong>Cognitive Neuroscientist (Research Scientist)</strong> at
-      <strong>DCS Corp</strong>. On the Non-Invasive Brain Stimulation team at
-      <strong>Wright-Patterson Air Force Base</strong>, I support Air Force Research Laboratory
-      initiatives through advanced neuroimaging analysis, statistical modeling, and reproducible ML workflows.
-      I am also preparing for a next chapter in clinical research data science.
+      currently serving as a <strong>Data Scientist (Clinical Research)</strong> at the
+      <strong>Institute for Neurodegenerative Disorders (INDD)</strong>. I work on large-scale
+      Parkinson's disease research datasets, building reproducible pipelines and analyses across
+      clinical, biomarker, neuroimaging, and multi-omics modalities.
     </p>
     <div class="zr-chip-row">
       <span>Python</span>
@@ -32,7 +31,7 @@ ext-css:
       <span>Multi-Modal Integration</span>
       <span>Reproducible Pipelines</span>
       <span>Git</span>
-      <span>Containerization</span>
+      <span>Multi-Omics Data</span>
     </div>
     <div class="zr-link-row">
       <a class="zr-btn zr-btn-primary" href="https://www.linkedin.com/in/zachary-bretton/">Connect on LinkedIn</a>
@@ -44,11 +43,11 @@ ext-css:
   <section class="zr-grid">
     <article class="zr-card">
       <h3>Current Role</h3>
-      <p>Cognitive Neuroscientist at DCS Corp, supporting AFRL work at Wright-Patterson AFB.</p>
+      <p>Data Scientist (Clinical Research) at INDD, supporting Parkinson's disease research with multimodal biomedical data.</p>
     </article>
     <article class="zr-card">
-      <h3>Next Focus</h3>
-      <p>Clinical research data science, with emphasis on biomedical datasets, reproducible analytics, and collaboration.</p>
+      <h3>Core Focus</h3>
+      <p>PPMI clinical, biomarker, neuroimaging, and multi-omics data curation, integration, and analysis.</p>
     </article>
     <article class="zr-card">
       <h3>Training</h3>
@@ -59,27 +58,26 @@ ext-css:
   <section class="zr-section" id="research">
     <h2>Where I Am Today</h2>
     <p>
-      My current work centers on translational neuroscience and applied analytics: designing robust
-      pipelines, evaluating intervention outcomes, and translating complex signals into actionable evidence.
+      My current work centers on end-to-end clinical research data science: curation, quality control,
+      harmonization, and analysis of multimodal biomedical datasets to support scientific discovery.
     </p>
     <ul class="zr-list">
-      <li>Conduct advanced neuroimaging analyses to evaluate outcomes of vagus nerve stimulation.</li>
-      <li>Apply statistical modeling, connectivity measures, and pattern classification to high-dimensional brain data.</li>
-      <li>Lead development of scalable fMRI preprocessing and analysis pipelines to improve reproducibility and computational efficiency.</li>
+      <li>Own end-to-end curation and QC of large-scale PPMI datasets across clinical, biomarker, neuroimaging, and multi-omics modalities.</li>
+      <li>Build reproducible Python pipelines that harmonize multimodal data into analysis-ready releases for internal and external collaborators.</li>
+      <li>Deliver publication- and grant-quality figures, summaries, and documentation that support interpretation and downstream studies.</li>
     </ul>
   </section>
 
   <section class="zr-section" id="next-role">
-    <h2>Where I Am Going</h2>
+    <h2>How I Work</h2>
     <p>
-      My next chapter is in clinical research data science, centered on translating complex biomedical datasets into
-      usable evidence for internal and external research teams.
+      I focus on reproducible, collaborator-friendly workflows that balance scientific rigor with practical delivery.
     </p>
     <ul class="zr-list">
-      <li>Manage and curate multimodal clinical, imaging, biomarker, and omics-adjacent datasets with strong data integrity practices.</li>
-      <li>Build and apply statistical and computational pipelines for low- and high-dimensional data, with clear documentation and QC.</li>
-      <li>Create figures, visual summaries, and analysis-ready datasets for collaborators, publications, grant applications, and presentations.</li>
-      <li>Strengthen reproducible workflows and secure data-sharing practices using version control and collaborative research standards.</li>
+      <li>Design analysis workflows with robust documentation, quality checks, and transparent assumptions.</li>
+      <li>Use version-controlled pipelines and structured data products so teams can reproduce and extend findings quickly.</li>
+      <li>Translate high-dimensional analyses into clear visuals and decisions for mixed technical and clinical audiences.</li>
+      <li>Prioritize secure data-sharing and handoff practices to support long-term research continuity.</li>
     </ul>
   </section>
 
@@ -90,8 +88,16 @@ ext-css:
         <article class="zr-timeline-item">
           <div class="zr-timeline-marker"></div>
           <div class="zr-timeline-content">
+            <p class="zr-timeline-date">2026 – Present</p>
+            <h3>Data Scientist (Clinical Research)</h3>
+            <p class="zr-timeline-org">Institute for Neurodegenerative Disorders (INDD)</p>
+          </div>
+        </article>
+        <article class="zr-timeline-item">
+          <div class="zr-timeline-marker"></div>
+          <div class="zr-timeline-content">
             <p class="zr-timeline-date">2024 – 2026</p>
-            <h3>Cognitive Neuroscientist</h3>
+            <h3>Cognitive Neuroscientist (Research Scientist)</h3>
             <p class="zr-timeline-org">DCS Corp · AFRL, Wright-Patterson AFB</p>
           </div>
         </article>
@@ -99,7 +105,7 @@ ext-css:
           <div class="zr-timeline-marker"></div>
           <div class="zr-timeline-content">
             <p class="zr-timeline-date">2019 – 2024</p>
-            <h3>Graduate Researcher (Cognitive Neuroscience Ph.D.)</h3>
+            <h3>Ph.D. Candidate (Neuroscience)</h3>
             <p class="zr-timeline-org">The University of Texas at Austin</p>
           </div>
         </article>
